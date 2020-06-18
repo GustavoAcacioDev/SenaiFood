@@ -10,13 +10,10 @@ namespace SenaiFood
         public string FormaDePagamento { get; set; }
         public bool PedidoPago;
 
-        public string PedidoRestaurante(){
-            
-            return "Voce pediu uma coca";
-        }
+       
         public string PedidoRestaurante(string Coca){
             
-            return "Voce pediu uma coca, e uma pizza de mussarela";
+            return "Voce pediu uma coca";
         }
         public string PedidoRestaurante(string Coca, string Pizza){
             
