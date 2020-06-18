@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\bin\Debug\netcoreapp3.1\SenaiFood.exe
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\bin\Debug\netcoreapp3.1\SenaiFood.deps.json
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\bin\Debug\netcoreapp3.1\SenaiFood.runtimeconfig.json
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\bin\Debug\netcoreapp3.1\SenaiFood.runtimeconfig.dev.json
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\bin\Debug\netcoreapp3.1\SenaiFood.dll
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\bin\Debug\netcoreapp3.1\SenaiFood.pdb
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\obj\Debug\netcoreapp3.1\SenaiFood.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\obj\Debug\netcoreapp3.1\SenaiFood.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\obj\Debug\netcoreapp3.1\SenaiFood.AssemblyInfo.cs
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\obj\Debug\netcoreapp3.1\SenaiFood.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\obj\Debug\netcoreapp3.1\SenaiFood.dll
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\obj\Debug\netcoreapp3.1\SenaiFood.pdb
+C:\Users\User\Desktop\Aulas SENAI[\SenaiFood\obj\Debug\netcoreapp3.1\SenaiFood.genruntimeconfig.cache
