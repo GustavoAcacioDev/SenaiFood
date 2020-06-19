@@ -9,6 +9,7 @@ namespace SenaiFood
 
             string dados = $" Nome: {Nome}\n Endereço de entrega: {EnderecoAtual}";
             System.Console.WriteLine(dados);
+            System.Console.WriteLine("========================");
 
             return dados;
 

@@ -2,23 +2,25 @@ namespace SenaiFood
 {
     public class Pedido
     {
-        public string[] Itens;
-
+        public string Iten1 { get; set; } 
+        public string Iten2 { get; set; }
         public string Cliente { get; set; }
 
         public string Restaurante { get; set; }
         public string FormaDePagamento { get; set; }
         public bool PedidoPago;
 
-       
-        public string PedidoRestaurante(string Coca){
-            
-            return "Voce pediu uma coca";
+        public Pedido(string _Iten1){
+            this.Iten1 = _Iten1;
+            System.Console.WriteLine($"Voce pediu um(a) {Iten1}");
         }
-        public string PedidoRestaurante(string Coca, string Pizza){
-            
-            return "Voce pediu uma coca, e uma pizza de mussarela";
+        public Pedido(string _Iten1, string _Iten2){
+            this.Iten1 = _Iten1;
+            this.Iten2 = _Iten2;
+            System.Console.WriteLine($"Voce pediu um(a) {Iten1} e um(a) {Iten2}");
         }
+
+
         public string EntregarPedido(){
             if(PedidoPago == false){
                 return "Esperando pagamento!";

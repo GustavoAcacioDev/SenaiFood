@@ -8,9 +8,9 @@ namespace SenaiFood
         public string MostrarDados(string NomeFantasia){
             
             if(NomeFantasia == "Papa Pizzaria"){
-
+                
                 string Endereco = "Av. Paulista. 962";
-                string dados = $"Nome do restaurante: {NomeFantasia}\n Endereço: {Endereco}";
+                string dados = $"Nome do restaurante: {NomeFantasia}\nEndereço: {Endereco}";
                 return dados;
 
             }else{
